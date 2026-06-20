@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zyad Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **HTML,CSS**
+- 🌱 I’m currently learning **HTML, CSS, Data Structures, Algorithms, and Problem Solving**
 
 - 👨‍💻 All of my projects are available at [https://zyad-zoz-133.github.io/My-Portfolio/](https://zyad-zoz-133.github.io/My-Portfolio/)
 
