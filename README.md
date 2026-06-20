@@ -30,3 +30,9 @@
 * ⚽ Passionate about football and gym (I support Barcelona).
 * 📚 Love learning new things and solving puzzles.
 
+### 🚀 Featured Projects
+
+| Project Name | Description | Link |
+| :--- | :--- | :--- |
+| ⚽ MESSI: The Ultimate Career Guide | An interactive project exploring the legendary football journey, stats, and achievements of Lionel Messi. | [View Project](https://github.com/Zyad-Zoz-133/MESSI-The-Ultimate-Career-Guide) |
+| 💳 Digital Bank Wallet | A smart digital banking and wallet application simulator. | [View Project](https://github.com/Zyad-Zoz-133/Digital-Bank-Wallet) |
