@@ -21,28 +21,29 @@
 - 📫 How to reach me: **zyadahmedmohamed265@gmail.com**
 
 ---
-
-### 🛠️ Languages and Tools
+### 🌐 Web Technologies
 
 <p align="left">
 
-  <!-- HTML -->
+  <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.simpleicons.org/html5/E34F26"
       alt="HTML5"
       width="40"
       height="40"
+      style="margin-right: 12px;"
     />
   </a>
 
-  <!-- CSS -->
+  <!-- CSS3 -->
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.simpleicons.org/css3/1572B6"
       alt="CSS3"
       width="40"
       height="40"
+      style="margin-right: 12px;"
     />
   </a>
 
@@ -53,6 +54,7 @@
       alt="JavaScript"
       width="40"
       height="40"
+      style="margin-right: 12px;"
     />
   </a>
 
@@ -63,6 +65,7 @@
       alt="React"
       width="40"
       height="40"
+      style="margin-right: 12px;"
     />
   </a>
 
@@ -73,18 +76,45 @@
       alt="Bootstrap"
       width="40"
       height="40"
+      style="margin-right: 12px;"
     />
   </a>
 
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+</p>
+
+
+### 💻 Programming Languages
+
+<p align="left">
+
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.simpleicons.org/figma/F24E1E"
-      alt="Figma"
+      src="https://cdn.simpleicons.org/cplusplus/00599C"
+      alt="C++"
       width="40"
       height="40"
+      style="margin-right: 12px;"
     />
   </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/python/3776AB"
+      alt="Python"
+      width="40"
+      height="40"
+      style="margin-right: 12px;"
+    />
+  </a>
+
+</p>
+
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -93,6 +123,7 @@
       alt="Git"
       width="40"
       height="40"
+      style="margin-right: 12px;"
     />
   </a>
 
@@ -103,12 +134,40 @@
       alt="GitHub"
       width="40"
       height="40"
+      style="margin-right: 12px;"
+    />
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/nodedotjs/339933"
+      alt="Node.js"
+      width="40"
+      height="40"
+      style="margin-right: 12px;"
     />
   </a>
 
 </p>
 
----
+
+### 🎨 Design
+
+<p align="left">
+
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/figma/F24E1E"
+      alt="Figma"
+      width="40"
+      height="40"
+      style="margin-right: 12px;"
+    />
+  </a>
+
+</p>
 
 ### 🛠️ Development Environment
 
@@ -149,6 +208,7 @@
       alt="Instagram"
       width="35"
       height="35"
+      style="margin-right: 12px;"
     />
   </a>
 
@@ -159,6 +219,7 @@
       alt="TikTok"
       width="35"
       height="35"
+      style="margin-right: 12px;"
     />
   </a>
 
@@ -169,6 +230,7 @@
       alt="WhatsApp"
       width="35"
       height="35"
+      style="margin-right: 12px;"
     />
   </a>
 
