@@ -1,41 +1,194 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50" alt="Header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50"
+    alt="Header"
+  />
 </p>
+
 <h1 align="center">Hi 👋, I'm Zyad Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Data Structures, Algorithms, and Problem Solving**
+<h3 align="center">A passionate Front-End Developer from Egypt 🇪🇬</h3>
 
-- 👨‍💻 All of my projects are available at [https://zyad-zoz-133.github.io/My-Portfolio/](https://zyad-zoz-133.github.io/My-Portfolio/)
+---
 
-- 📫 How to reach me **zyadahmedmohamed265@gmail.com**
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning **JavaScript, React.js, Data Structures, Algorithms, and Problem Solving**
+- 💻 Interested in **Front-End Development, UI Design, and Web Development**
+- 🎨 I enjoy turning **UI designs into responsive websites**
+- 🚀 Always learning and building new projects
+- 📂 All of my projects are available on my [Portfolio](https://zyad-zoz-133.github.io/portfolio-v2/)
+- 📫 How to reach me: **zyadahmedmohamed265@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://instagram.com/elzoz133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elzoz133" height="30" width="40" /></a>
+
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/html5/E34F26"
+      alt="HTML5"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- CSS -->
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/css3/1572B6"
+      alt="CSS3"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/javascript/F7DF1E"
+      alt="JavaScript"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/react/61DAFB"
+      alt="React"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/bootstrap/7952B3"
+      alt="Bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/figma/F24E1E"
+      alt="Figma"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/git/F05032"
+      alt="Git"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/github/FFFFFF"
+      alt="GitHub"
+      width="40"
+      height="40"
+    />
+  </a>
+
 </p>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201141203614)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a> 
-</p>
+---
 
 ### 🛠️ Development Environment
 
-* **IDE:** VS Code 💻
-* **OS:** Windows 🪟
-* **Terminal:** Git Bash 🚀
+- **IDE:** VS Code 💻
+- **OS:** Windows 🪟
+- **Terminal:** Git Bash 🚀
 
-### ⚡ Fun Facts
-
-* 🎮 In my free time, I enjoy playing video games.
-* ⚽ Passionate about football and gym (I support Barcelona).
-* 📚 Love learning new things and solving puzzles.
+---
 
 ### 🚀 Featured Projects
 
 | Project Name | Description | Link |
 | :--- | :--- | :--- |
-| ⚽ MESSI: The Ultimate Career Guide | An interactive project exploring the legendary football journey, stats, and achievements of Lionel Messi. | [View Project](https://github.com/Zyad-Zoz-133/MESSI-The-Ultimate-Career-Guide) |
-| 💳 Digital Bank Wallet | A smart digital banking and wallet application simulator. | [View Project](https://github.com/Zyad-Zoz-133/Digital-Bank-Wallet) |
+| 📝 **To-Do List** | A responsive task management app with task creation, editing, deletion, search, completion tracking, and progress updates. | [View Project](https://zyad-zoz-133.github.io/To-Do-List/) |
+| 🌐 **Portfolio Website** | A responsive personal portfolio built with HTML and CSS, featuring a modern dark theme to showcase my skills, projects, and Front-End development journey. | [View Project](https://zyad-zoz-133.github.io/portfolio-v2/) |
+| 💳 **Digital Bank Wallet** | A smart digital banking and wallet application simulator. | [View Project](https://github.com/Zyad-Zoz-133/Digital-Bank-Wallet.git) |
+| ⚽ **MESSI: The Ultimate Career Guide** | An interactive project exploring the legendary football journey, stats, and achievements of Lionel Messi. | [View Project](https://github.com/Zyad-Zoz-133/MESSI-The-Ultimate-Career-Guide) |
+
+---
+
+### ⚡ Fun Facts
+
+- 🎮 In my free time, I enjoy playing video games.
+- ⚽ Passionate about football and a big Barcelona fan.
+- 📚 I love learning new things and solving problems.
+- 💻 I enjoy building projects and experimenting with new technologies.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/Zyad_dev" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+      alt="Instagram"
+      width="35"
+      height="35"
+    />
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/tiktok/FFFFFF"
+      alt="TikTok"
+      width="35"
+      height="35"
+    />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/whatsapp/25D366"
+      alt="WhatsApp"
+      width="35"
+      height="35"
+    />
+  </a>
+
+</p>
+
+---
+
+### 📫 Contact
+
+**Email:**  
+📧 zyadahmedmohamed265@gmail.com
+
+**Portfolio:**  
+🌐 [Visit My Portfolio](https://zyad-zoz-133.github.io/portfolio-v2/)
+
+**GitHub:**  
+💻 [Visit My GitHub](https://github.com/Zyad-Zoz-133)
+
+---
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and follow my journey!
+</p>
