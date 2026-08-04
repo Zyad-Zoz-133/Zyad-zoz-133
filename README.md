@@ -32,7 +32,7 @@
       alt="HTML5"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -43,7 +43,7 @@
       alt="CSS3"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -54,7 +54,7 @@
       alt="JavaScript"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -65,7 +65,7 @@
       alt="React"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -76,7 +76,7 @@
       alt="Bootstrap"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -94,7 +94,7 @@
       alt="C++"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -105,7 +105,7 @@
       alt="Python"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -123,7 +123,7 @@
       alt="Git"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -134,7 +134,7 @@
       alt="GitHub"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -145,7 +145,7 @@
       alt="Node.js"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -163,7 +163,7 @@
       alt="Figma"
       width="40"
       height="40"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -208,7 +208,7 @@
       alt="Instagram"
       width="35"
       height="35"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -219,7 +219,7 @@
       alt="TikTok"
       width="35"
       height="35"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
@@ -230,7 +230,7 @@
       alt="WhatsApp"
       width="35"
       height="35"
-      style="margin-right: 12px;"
+      style="margin-right: 15px;"
     />
   </a>
 
