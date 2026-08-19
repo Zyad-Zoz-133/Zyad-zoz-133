@@ -7,7 +7,11 @@
 
 <h1 align="center">Hi 👋, I'm Zyad Ahmed</h1>
 
-<h3 align="center">A passionate Front-End Developer from Egypt 🇪🇬</h3>
+<h3 align="center">
+  A passionate
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=false&vCenter=true&width=350&lines=Front-End+Developer;Web+Developer;Responsive+Web+Designer" alt="Typing SVG" />
+  from Egypt 🇪🇬
+</h3>
 
 ---
 
