@@ -8,7 +8,8 @@
 <h1 align="center">Hi 👋, I'm Zyad Ahmed</h1>
 
 <h3 align="center">
-  A passionate <img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&pause=1000&color=00B4D8&center=false&vCenter=true&width=260&height=22&lines=Front-End+Developer;Web+Developer;Responsive+Web+Designer" alt="Typing SVG" /> from Egypt 🇪🇬
+  A passionate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from Egypt 🇪🇬<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=420&height=30&lines=Front-End+Developer;Web+Developer;Responsive+Web+Designer" alt="Typing SVG" />
 </h3>
 
 ---
@@ -29,146 +30,65 @@
 
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/html5/E34F26"
-      alt="HTML5"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" style="margin-right: 15px;" />
   </a>
 
   <!-- CSS3 -->
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/css3/1572B6"
-      alt="CSS3"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40" style="margin-right: 15px;" />
   </a>
 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/javascript/F7DF1E"
-      alt="JavaScript"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" style="margin-right: 15px;" />
   </a>
 
   <!-- React -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/react/61DAFB"
-      alt="React"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" style="margin-right: 15px;" />
   </a>
 
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/bootstrap/7952B3"
-      alt="Bootstrap"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40" style="margin-right: 15px;" />
   </a>
 
 </p>
-
 
 ### 💻 Programming Languages
 
 <p align="left">
-
-  <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/cplusplus/00599C"
-      alt="C++"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40" style="margin-right: 15px;" />
   </a>
 
-  <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/python/3776AB"
-      alt="Python"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" style="margin-right: 15px;" />
   </a>
-
 </p>
-
 
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-
-  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/git/F05032"
-      alt="Git"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" style="margin-right: 15px;" />
   </a>
 
-  <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/github/FFFFFF"
-      alt="GitHub"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40" style="margin-right: 15px;" />
   </a>
 
-  <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/nodedotjs/339933"
-      alt="Node.js"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40" style="margin-right: 15px;" />
   </a>
-
 </p>
-
 
 ### 🎨 Design
 
 <p align="left">
-
-  <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/figma/F24E1E"
-      alt="Figma"
-      width="40"
-      height="40"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40" style="margin-right: 15px;" />
   </a>
-
 </p>
 
 ### 🛠️ Development Environment
@@ -202,40 +122,17 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-
-  <!-- Instagram -->
   <a href="https://instagram.com/Zyad_dev" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/instagram/E4405F"
-      alt="Instagram"
-      width="35"
-      height="35"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="35" height="35" style="margin-right: 15px;" />
   </a>
 
-  <!-- TikTok -->
   <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/tiktok/FFFFFF"
-      alt="TikTok"
-      width="35"
-      height="35"
-      style="margin-right: 15px;"
-    />
+    <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" alt="TikTok" width="35" height="35" style="margin-right: 15px;" />
   </a>
 
-  <!-- WhatsApp -->
-  <a href="https://cdn.simpleicons.org/whatsapp/25D366" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/whatsapp/25D366"
-      alt="WhatsApp"
-      width="35"
-      height="35"
-      style="margin-right: 15px;"
-    />
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="35" height="35" style="margin-right: 15px;" />
   </a>
-
 </p>
 
 ---
