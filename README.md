@@ -146,7 +146,7 @@
 🌐 [Visit My Portfolio](https://zyad-zoz-133.github.io/portfolio-v2/)
 
 **GitHub:**  
-💻 [Visit My GitHub](https://github.com/Zyad-Zoz-133)
+💻 [Visit My GitHub]([https://github.com/Zyad-Zoz-133](https://zyad-portfolio-alpha.vercel.app/))
 
 ---
 
