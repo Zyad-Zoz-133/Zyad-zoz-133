@@ -126,11 +126,11 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="35" height="35" style="margin-right: 15px;" />
   </a>
 
-  <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME" target="_blank">
+  <a href="https://www.tiktok.com/@Zyad_dev" target="_blank">
     <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" alt="TikTok" width="35" height="35" style="margin-right: 15px;" />
   </a>
 
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
+  <a href="https://wa.me/201141203614" target="_blank">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="35" height="35" style="margin-right: 15px;" />
   </a>
 </p>
